@@ -18,5 +18,6 @@ Since the number of avian species worldwide and the time it takes to train large
 ## Data Preprocessing
 
 ## Dataset Split
+The dataset was divided into train, validation and test set in ratio 8:1:1.
 
 ## Training
